@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Dialogue_1 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<u_story_1>
+		<story>    
+      
+        <story>
+          <CharacterEffectData LeftMove="x" LeftTime="x" LeftFade="x" LeftReset="x" MiddleMove="x" MiddleTime="x" MiddleFade="x" MiddleReset="x" RightMove="x" RightTime="x" RightFade="x" RightReset="x"/>
+        </story>
+        <story>
+          <CharacterEffectData LeftMove="x" LeftTime="x" LeftFade="x" LeftReset="x" MiddleMove="x" MiddleTime="x" MiddleFade="x" MiddleReset="x" RightMove="x" RightTime="x" RightFade="x" RightReset="x"/>
+        </story>
+      
+			<Text>잠에서 깨자, 별 하나 없는 서울의 밤하늘이 보였다.</Text>
+			<Setting Type="Text" Speaker="x" Background="1" BGM="x" SFX="x"/>
+			<Location Left="x" Middle="x" Right="x"/>
+			<Effect Fade="x" Camera="x" UI="x" />
+			<CharacterEffect LeftEvent="x" MiddleEvent="x" RightEvent="x"/>
+      <PieceImage PutPicture="Paint_1"/>
+		</story>
+		<story>
+			<Text>달도 구름에 가려진 하늘은 한없이 새까맣다.</Text>
+			<Setting Type="Text" Speaker="x" Background="1" BGM="x" SFX="x"/>
+			<Location Left="x" Middle="x" Right="x"/>
+			<Effect Fade="x" Camera="x" UI="x"/>
+			<CharacterEffect LeftEvent="x" MiddleEvent="x" RightEvent="x"/>
+			<PieceImage PutPicture="Paint_1"/>
+		</story>
+		<story>
+			<Text>어느 것도 반짝이지 않는 아득한 어둠.</Text>
+      <Setting Type="Text" Speaker="x" Background="1" BGM="x" SFX="x"/>
+      <Location Left="x" Middle="x" Right="x"/>
+      <Effect Fade="x" Camera="x" UI="x"/>
+      <CharacterEffect LeftEvent="x" MiddleEvent="x" RightEvent="x"/>
+      <PieceImage PutPicture="Paint_1"/>
+		</story>
+		<story>
+			<Text>그걸 보고 있는 건, 눈을 감은 것과 뭐가 다를까?</Text>
+      <Setting Type="Text" Speaker="x" Background="1" BGM="x" SFX="x"/>
+      <Location Left="x" Middle="x" Right="x"/>
+      <Effect Fade="x" Camera="x" UI="x"/>
+      <CharacterEffect LeftEvent="x" MiddleEvent="x" RightEvent="x"/>
+      <PieceImage PutPicture="Paint_1"/>
+		</story>
+		<story>
+      <Text>아...</Text>
+      <Setting Type="Text" Speaker="x" Background="1" BGM="x" SFX="x"/>
+      <Location Left="x" Middle="x" Right="x"/>
+      <Effect Fade="x" Camera="x" UI="x"/>
+      <CharacterEffect LeftEvent="x" MiddleEvent="x" RightEvent="x"/>
+      <PieceImage PutPicture="Paint_1"/>
+		</story>
+		<story>
+			<Text>“…으윽.”</Text>
+      <Setting Type="Text" Speaker="x" Background="1" BGM="x" SFX="x"/>
+      <Location Left="x" Middle="x" Right="x"/>
+      <Effect Fade="x" Camera="x" UI="x"/>
+      <CharacterEffect LeftEvent="x" MiddleEvent="x" RightEvent="x"/>
+      <PieceImage PutPicture="Paint_1"/>
+		</story>
+		<story>
+			<Text>잡생각을 멈추고 몸을 일으켰다. 바닥이 딱딱한 곳에서 오래 잔 나머지 등이 살짝 배겼다.</Text>
+      <Setting Type="Text" Speaker="x" Background="1" BGM="x" SFX="x"/>
+      <Location Left="x" Middle="x" Right="x"/>
+      <Effect Fade="x" Camera="x" UI="x"/>
+      <CharacterEffect LeftEvent="x" MiddleEvent="x" RightEvent="x"/>
+      <PieceImage PutPicture="Paint_1"/>
+		</story>
+		<story>
+			<Text>바닥이 더 푹신하면 좋았겠지만, 멋대로 학교 옥상에서 자면서 불평할 수도 없는 노릇이다.</Text>
+      <Setting Type="Text" Speaker="x" Background="1" BGM="x" SFX="x"/>
+      <Location Left="x" Middle="x" Right="x"/>
+      <Effect Fade="x" Camera="x" UI="x"/>
+      <CharacterEffect LeftEvent="x" MiddleEvent="x" RightEvent="x"/>
+      <PieceImage PutPicture="Paint_1"/>
+		</story>
+		<story>
+			<Text>가림막 하나 없는 옥상에 쌀쌀한 가을바람이 불었다.
+조금 있으면 겨울이라 그런지 바람에 냉기가 느껴진다.</Text>
+      <Setting Type="Text" Speaker="x" Background="1" BGM="x" SFX="x"/>
+      <Location Left="x" Middle="x" Right="x"/>
+      <Effect Fade="x" Camera="x" UI="x"/>
+      <CharacterEffect LeftEvent="x" MiddleEvent="x" RightEvent="x"/>
+      <PieceImage PutPicture="Paint_1"/>
+		</story>
+		<story>
+			<Text>“슬슬 내려가야겠다.”</Text>
+      <Setting Type="Text" Speaker="x" Background="1" BGM="x" SFX="x"/>
+      <Location Left="x" Middle="x" Right="x"/>
+      <Effect Fade="x" Camera="x" UI="x"/>
+      <CharacterEffect LeftEvent="x" MiddleEvent="x" RightEvent="x"/>
+      <PieceImage PutPicture="Paint_1"/>
+		</story>
+		<story>
+			<Text>가방을 챙겨 옥상 문을 열고 내려가, 물탱크 사이로 몸을 비집어 넣었다.</Text>
+      <Setting Type="Text" Speaker="x" Background="1" BGM="x" SFX="x"/>
+      <Location Left="x" Middle="x" Right="x"/>
+      <Effect Fade="x" Camera="x" UI="x"/>
+      <CharacterEffect LeftEvent="x" MiddleEvent="x" RightEvent="x"/>
+      <PieceImage PutPicture="Paint_1"/>
+		</story>
+		<story>
+			<Text>이 학교에 전학을 오고 1년이 지났지만, 유일하게 마음에 든 곳이 여기 옥상이다.</Text>
+      <Setting Type="Text" Speaker="x" Background="1" BGM="x" SFX="x"/>
+      <Location Left="x" Middle="x" Right="x"/>
+      <Effect Fade="x" Camera="x" UI="x"/>
+      <CharacterEffect LeftEvent="x" MiddleEvent="x" RightEvent="x"/>
+      <PieceImage PutPicture="Paint_1"/>
+		</story>
+		<story>
+			<Text>옥상문을 물탱크 두 개가 가리고 있어서, 다른 사람들은 옥상으로 가는 길이 없는 줄 알고 있다.</Text>
+      <Setting Type="Text" Speaker="x" Background="1" BGM="x" SFX="x"/>
+      <Location Left="x" Middle="x" Right="x"/>
+      <Effect Fade="x" Camera="x" UI="x"/>
+      <CharacterEffect LeftEvent="x" MiddleEvent="x" RightEvent="x"/>
+      <PieceImage PutPicture="Paint_1"/>
+		</story>
+		<story>
+			<Text>사실 그 뒤는 잠기지도 않은 문이 있는데.</Text>
+      <Setting Type="Text" Speaker="x" Background="1" BGM="x" SFX="x"/>
+      <Location Left="x" Middle="x" Right="x"/>
+      <Effect Fade="x" Camera="x" UI="x"/>
+      <CharacterEffect LeftEvent="x" MiddleEvent="x" RightEvent="x"/>
+      <PieceImage PutPicture="Paint_1"/>
+		</story>
+		<story>
+			<Text>뭐, 덕분에 내가 전세 내고 잘 쓰고 있다.</Text>
+      <Setting Type="Text" Speaker="x" Background="1" BGM="x" SFX="x"/>
+      <Location Left="x" Middle="x" Right="x"/>
+      <Effect Fade="x" Camera="x" UI="x"/>
+      <CharacterEffect LeftEvent="x" MiddleEvent="x" RightEvent="x"/>
+      <PieceImage PutPicture="Paint_1"/>
+		</story>
+		<story>
+			<Text>다른 누구 하나도 없는 나 혼자만의 공간.</Text>
+      <Setting Type="Text" Speaker="x" Background="1" BGM="x" SFX="x"/>
+      <Location Left="x" Middle="x" Right="x"/>
+      <Effect Fade="x" Camera="x" UI="x"/>
+      <CharacterEffect LeftEvent="x" MiddleEvent="x" RightEvent="x"/>
+      <PieceImage PutPicture="Paint_1"/>
+		</story>
+	</u_story_1>
+</Dialogue_1>

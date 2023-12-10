@@ -1,0 +1,581 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<storyType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <storyTitle>
+    <story>
+      <Text>진짜 무서운 일은 대낮에 일어난다. </Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>어둠 속에 숨지도 않고, 따듯한 햇빛을 받으며, 대놓고 당당하게 다가와선 공포를 선사한다. </Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>&lt; 바깥 배경 &gt;</Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>은혜 선배와 만나기로 한 날. </Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>날씨는 구름 한 점 없게 화창했다. </Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>“날씨는 좋네….”</Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>은혜 선배는 나보고 집 앞에서 기다리라고 했다. 선배는 대체 어떻게 내 집 주소를 알고 있는 걸까. </Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>쨍쨍한 햇살에도 개의치 않고, 마음속 그림자가 커진다. </Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>아, 아니지. 그래. 학생회장이니까 그런 거야. </Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>저번에 학생회 가입할 때 적었던 서류에 주소를 적었던 것 같기도 하다. </Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>그래. 그러니까 은혜 선배가 내 주소를 알고 있을 수도 있지. </Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>그렇게 생각하고 살짝 안도하려 할 때, 길쭉한 그림자가 도로 한복판에 나타났다. </Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>모든 햇빛을 흡수할 것 같은 새까만 리무진. 창문으로도 빛을 허용할 생각이 없는지 창문은 새까맣게 선팅돼있다. </Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>그 리무진은 조용히 다가와 내 앞에서 멈춰 섰다. </Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>천천히 리무진의 창문이 열리고, 안에 타고 있는 사람의 목소리가 흘러나왔다. </Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>목소리의 주인은 당연히 </Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>“타.”</Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>은혜 선배였다. </Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>=== </Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>리무진을 탄 건 태어나서 처음이었다. </Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>그 길쭉한 내부는 차가 아니라 움직이는 집이라고 하는 게 더 걸맞았다. </Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>자동차 안이라고 생각되지 않는 넓은 공간. 고급 소파를 방불케 하는 좌석. </Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>리무진 안은 내 자취방하곤 비교도 안 될 정도로 좋았다. </Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>잠깐 둘러봤을 때쯤, 리무진은 천천히 어디론가 움직이기 시작했다. </Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>“저희 어디 가는 건가요?”</Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>“나도 몰라.”</Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>“…네?”</Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>“아직 안 정했거든. 널 어디로 보낼지.” </Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>&lt;찰칵&gt;</Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>은혜 선배의 그 말과 동시에 리무진 문이 잠겼다. </Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>“그러니 일단 앉아. 얘기부터 해야 하니까.” </Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>선배의 반대편으로 가, 나보다 비싸 보이는 소파에 내 엉덩이를 얹었다. </Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>앉고 나자, 맞은 편에 있는 은혜 선배가 온전히 눈에 들어왔다. </Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>엄청 비싸 보이는 명품과 털코트. 손에 들린 최신형 사과 핸드폰. 그리고 미소 하나 없는 차가운 표정. </Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>그런 은혜 선배의 모습은 주위에 있는 비싼 것들과 너무나 잘 어울렸다. 내가 아는 친근한 선배의 이미지하곤 전혀 달랐지만. </Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>“왜? 교복이 아니라 놀랐어?”</Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>“조금요.”</Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>“그래? 그럼 익숙해져. 이게 내 평소 모습이니까.”</Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>평소 모습. 나한테는 하나도 익숙하지 않은데, 은혜 선배는 그렇게 말했다. </Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>“그러면 학교에서는 왜…”</Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>“그건 보여주기용이야.” </Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>“남들한테 그리 친절한 애가 어딨어. 거기에 핸드폰도 쓸 줄 몰라? 만화에나 나올법한 인간이지.”</Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>은혜 선배는 차갑게 웃었다. </Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>“하지만 대부분은 믿더라고.” </Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>“뭐 하러 굳이 연기를 하는 거예요?”</Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>“보면 몰라? 나 미움 사기 쉬운 성격이거든. 거기에 돈도 많고.” </Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>“그럼 피곤한 것들이 따라붙어. 좋은 거 쓰면 질투하는 애. 기 싸움하려고 안달이 난 애. 안 보이는 데서 입 터는 애.” </Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>“그게 귀찮으니까 연기하는 거야. 착하고, 순진한 학생회장 고은혜. 그래서 지금까지 잘 지내왔는데….”</Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>“누구한테 들켜버렸네.”</Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>싸늘한 시선이 눈동자를 찌르고 들어왔다. </Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>“아, 아무한테도 말 안 했어요.”</Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>“알아. 그리고 다행으로 생각해. 그 덕에 널 써먹기로 했으니까.”</Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>“입이 무거운 건 부하로서의 좋은 덕목이거든.”</Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>…부하?</Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>갑자기 나온 이상한 단어에 당황하고 있을 때, 은혜 선배가 꼬았던 다리를 풀고 말했다. </Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>“너. 나 좀 도와줘야겠어.” </Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>“내가 맡은 축제 일에 이상한 소문이 돌았어. 학생회장이 엄청난 크리스마스 이벤트를 준비한다고 말이야.” </Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>“제가 낸 소문 아니에요!”</Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>“그것도 알아. 만약 그랬으면 네가 여기 있지도 않았겠지.”</Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>“….”</Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>“아무튼. 그래서 문제가 생겼어. 교감이 말한 대로 적당히 사진 찍을 정도로 축제를 열면 뒷얘기가 나올 것 같거든.” </Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>“학생회장이 한다고 해서 기대했는데 고작 이거냐, 뭐 이런 얘기.” </Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>“난 그런 거 듣고 싶지 않거든. 정말로, 조금도, 듣고 싶지 않아.”</Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>“그럼 어떻게 하려고요?”</Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>“네가 날 도와야지.”</Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>은혜 선배는 당연한 듯이 말했다. </Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>“너 입은 무거운 것 같고, 내가 연기하는 것도 알고 있으니 굳이 숨길 필요도 없고. 학생회에서 하는 일도 제일 없지. 써먹기 딱 좋잖아?”</Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>“일은 이번 달까지만 도우면 돼. 방학식 이후엔 나도 졸업이니까, 그 뒤론 별일 없겠지.” </Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>“만약에 도와주기 힘들면요?”</Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>“그러면….” </Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>“조금 먼 곳으로 가야겠네.” </Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>갑자기 리무진이 불길한 엔진음을 올렸다. </Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>“미안. 바다까지 가려면 속도를 올려야 하거든.” </Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>“바, 바다요?”</Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>“응. 바다 싫어? 그러면 산으로 할래? 산은 가까우니까 난 더 좋은데.” </Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>“…농담이죠?”</Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>“후후.”</Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>은혜 선배는 대답 대신 웃었다. </Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>그러고 보니 운전석에 있는 아저씨가 좀 심하게 근육질이긴 했다. </Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>얼굴에 무서운 흉터도 있었고….</Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>“난 농담 싫어해. 뒤에서 나 보고 떠드는 것만큼 말이야.”</Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>“그래서 어떻게 할래? 도울 거야? 아님 말 거야.” </Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>은혜 선배는 협박하듯 나를 노려봤다. 거절은 받아들이지 않겠다는 표정으로. </Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>나는 얌전히 선배가 원하는 대답을 내놓았다.</Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>“도와드릴게요.” </Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>“후후. 이대로 끌려가긴 무섭나 봐?”</Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>“그것도 그렇지만…. 전 처음부터 선배 도와줄 생각이었어요.”</Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>“은혜 선배도 제가 선물 준비하는 거 도와줬잖아요. 그러니까 저도 도와야죠.”</Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>“어머, 정말? 그것참 감동적인 대답이네.” </Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>“내가 널 리무진에 끌고 오지도 않고, 문도 안 잠그고, 험상궂은 사람을 데려오지 않고 부탁했더라도.”</Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>“넌 날 도왔을 텐데 말이야. 그렇지?”</Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>은혜 선배는 나를 믿지 않는 표정으로 보고 있었기에, 나도 대답하진 않았다. </Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>선배는 대답하지 않는 나를 뚫어져라 쳐다보곤, 눈을 살포시 감았다 뗐다. </Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>“…후후. 재밌네.” </Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>“같이 지내다 보면, 네가 말한 게 알량한 잔머리인지, 마음에서 나온 답인지는 알게 될 테니까.” </Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>“일단은 그런 대답을 했다는 거엔 점수를 줄게.” </Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>은혜 선배의 말이 들리는 건지, 리무진이 내던 엔진음은 다시 조용해졌다. </Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>&lt;핸드폰 진동 소리&gt; </Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>“방금 보낸 게 내 진짜 연락처야. 앞으로 축제에 관한 건 이 번호로 연락할 거니까, 등록해둬.”</Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>무슨 이름으로 등록할지 고민하다가 ‘무서운 선배’로 저장했다. </Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>“일은 내일부터 질리게 시킬 거니까, 오늘은 이거면 돼. 마지막으로 궁금한 거 있어?”</Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>“물어봐도 돼요?”</Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>“입 아프니까 하나만 물어봐.”</Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>산더미같이 쌓여있는 질문들이 머릿속에서 자기주장을 펼쳤다. </Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>‘만약 제가 선배에 대해 남들한테 얘기했으면 어떻게 됐죠?’ ‘대체 얼마나 부자인 거예요?’ ‘저 운전사 아저씨는 뭔데요?’ </Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>그런 다양한 궁금증을 누르고, 나는 제일 듣고 싶었던 걸 선배에게 물었다. </Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>“…은혜 선배는 대체 어떤 사람인 거예요?”</Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>“후후. 왜? 네 머리로는 내가 이해가 안 가?”</Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>은혜 선배는 비웃는 것처럼 살짝 눈썹을 올렸다. </Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>“근데 굳이 이해할 필요가 있어?” </Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>“그냥 이렇게 생각해. 돈 많고, 성격 꼬인 여자라고.” </Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>뭔가 걸리는 듯한 느낌을 받았지만, 은혜 선배는 손을 저으며 주제를 돌려버렸다. </Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>“됐어. 이걸로 질문은 끝이야.” </Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>느릿하게 움직이던 리무진이 멈춰서고, 내가 들어왔었던 문이 열렸다. </Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>“내려. 너랑 볼일 다 봤으니까.” </Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>선배 말에 따라 밖으로 나가자, 리무진을 탔었던 집 앞 그곳에 그대로 돌아와 있었다. </Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>내가 타고 있을 때, 분명히 움직였었는데. 마치 잠깐 꿈을 꾼 듯한 기분이 들었다. </Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>그게 꿈이 아니라는 걸 말하듯, 뒤에 있던 리무진 문이 다시 천천히 닫히기 시작했다.</Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>그 문틈 사이로 보인 은혜 선배는 내가 본 적 없는 표정을 짓고 있었다. </Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>상냥한 미소도 아니고, 짜증이 난 듯한 차가운 무표정도 아니다. </Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>하지만 내겐 너무 익숙한 표정. </Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>너무나 많이 봐왔던 표정. </Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>“은혜 선배!”</Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>그 표정을 보고 나도 모르게 외쳤지만, 문은 철컥 닫혔다. </Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>리무진 안에 있을 은혜 선배는 더 보이지 않았다. 새까만 선팅에 비춘 내 얼굴만 반사됐다. </Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>하지만 잠깐 있다가, </Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>(기계음)</Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>리무진의 창문이 천천히 내려갔다. </Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>“왜.”</Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>반쯤 내려간 창문 너머로 차가운 은혜 선배의 얼굴이 보였다. </Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>은혜 선배에게 할 말은 없었다. 아까 표정을 보고 나도 모르게 목소리가 나왔을 뿐이다. </Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>하지만 점점 짜증이 치미는 듯한 얼굴로 바뀌는 은혜 선배를 보고, 아무런 말을 꺼냈다. </Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>“내일 봐요.”</Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>“…하아.”</Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>작은 한숨을 쉬곤, 은혜 선배가 미간을 찡그렸다. </Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>“입 아프다니까, 인사까지 하고 있네.” </Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>선배는 질린 듯한 얼굴로 나를 보고는 고개를 돌렸다. </Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>(기계음)</Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>리무진은 주인을 귀찮게 하지 말라는 것처럼 창문을 다시 올렸다. </Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>그렇게 창문이 완전히 닫히기 직전, 리무진 안에서 작게 목소리가 들렸다. </Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>“…내일 봐.”</Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>은혜 선배의 표정은 알 수 없었지만…. </Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>목소리는 내겐 조금</Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+    <story>
+      <Text>기쁜 듯이 느껴졌다. </Text>
+      <Setting Type="x" Speaker="x" Background="x" BGM="x" SFX="x" />
+    </story>
+  </storyTitle>
+</storyType>
