@@ -10,6 +10,9 @@ public class MyCustomEditor : EditorWindow
     [SerializeField] private int m_SelectedIndex = -1;
     private VisualElement m_RightPane;
 
+    // Story 리스트
+    public List<Story> stories = new List<Story>();
+
     [MenuItem("Tools/My Custom Editor")]
     public static void ShowMyEditor()
     {
@@ -24,6 +27,12 @@ public class MyCustomEditor : EditorWindow
 
     public void CreateGUI()
     {
+        var loadButton = new Button(LoadXmlFile) { text = "Load" };
+        rootVisualElement.Add(loadButton);
+
+        var saveButton = new Button(SaveXmlFile) { text = "Save" };
+        rootVisualElement.Add(saveButton);
+
         // Create a two-pane view with the left pane being fixed with
         var splitView = new TwoPaneSplitView(0, 250, TwoPaneSplitViewOrientation.Horizontal);
 
@@ -154,19 +163,15 @@ public class MyCustomEditor : EditorWindow
         public EditorXMLData.PieceImage PieceImage;
     }
 
-    // Story 리스트
-    public List<Story> stories = new List<Story>();
-
-    void OnEnable()
-    {
-        // XML 파일 불러오기
-        LoadXmlFile();
-    }
+    #region XML Data Load, Save
 
     void LoadXmlFile()
     {
+        stories.Clear();
+
         // XML 파일 경로
-        string path = Application.streamingAssetsPath + "/test5.xml";
+        string path = EditorUtility.OpenFilePanel("Import File", $"{Application.streamingAssetsPath}", "xml");
+        if(string.IsNullOrEmpty(path)) return;
 
         // XML 파일을 읽어옴
         XmlDocument xmlDoc = new XmlDocument();
@@ -225,4 +230,11 @@ public class MyCustomEditor : EditorWindow
             // 필요한 속성들을 추가로 출력
         }
     }
+
+    private void SaveXmlFile()
+    {
+        // ... (저장 로직 구현)
+    }
+
+    #endregion
 }
